@@ -3,6 +3,7 @@
 Hi, I work on [Chainlink](https://github.com/smartcontractkit/chainlink).
 
 Below are some weekend projects I've built:
+- [CouNFTerfeit](https://github.com/thodges-gh/CouNFTerfeit)
 - [Chainlink Contract Callers (C<sup>3</sup>)](https://github.com/thodges-gh/chainlink-contract-callers)
 - [Linky Lottery](https://github.com/thodges-gh/linky-lottery)
 - [Reward Caller](https://github.com/thodges-gh/RewardCaller)
